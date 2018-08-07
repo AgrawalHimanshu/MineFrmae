@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32" started-at="2018-06-20T07:50:31Z" finished-at="2018-06-20T07:50:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32" started-at="2018-06-20T07:50:31Z" finished-at="2018-06-20T07:50:31Z">
+      <class name="com.framework.tests.TestNgSequence">
+        <test-method status="PASS" signature="beforeSuite0()[pri:0, instance:com.framework.tests.TestNgSequence@61832929]" name="beforeSuite0" is-config="true" duration-ms="8" started-at="2018-06-20T13:20:31Z" finished-at="2018-06-20T13:20:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite0 -->
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.framework.tests.TestNgSequence@61832929]" name="beforeSuite" is-config="true" duration-ms="0" started-at="2018-06-20T13:20:31Z" depends-on-methods="com.framework.tests.TestNgSequence2.beforeSuite0" finished-at="2018-06-20T13:20:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest1()[pri:0, instance:com.framework.tests.TestNgSequence@61832929]" name="beforeTest1" is-config="true" duration-ms="1" started-at="2018-06-20T13:20:31Z" finished-at="2018-06-20T13:20:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest1 -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.framework.tests.TestNgSequence@61832929]" name="beforeTest" is-config="true" duration-ms="0" started-at="2018-06-20T13:20:31Z" depends-on-methods="com.framework.tests.TestNgSequence2.beforeTest1" finished-at="2018-06-20T13:20:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass1()[pri:0, instance:com.framework.tests.TestNgSequence@61832929]" name="beforeClass1" is-config="true" duration-ms="0" started-at="2018-06-20T13:20:31Z" finished-at="2018-06-20T13:20:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass1 -->
+        <test-method status="PASS" signature="beforeClass2()[pri:0, instance:com.framework.tests.TestNgSequence@61832929]" name="beforeClass2" is-config="true" duration-ms="0" started-at="2018-06-20T13:20:31Z" finished-at="2018-06-20T13:20:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass2 -->
+        <test-method status="PASS" signature="beforeMethod2()[pri:0, instance:com.framework.tests.TestNgSequence@61832929]" name="beforeMethod2" is-config="true" duration-ms="0" started-at="2018-06-20T13:20:31Z" finished-at="2018-06-20T13:20:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod2 -->
+        <test-method status="PASS" signature="beforeMethod3()[pri:0, instance:com.framework.tests.TestNgSequence@61832929]" name="beforeMethod3" is-config="true" duration-ms="0" started-at="2018-06-20T13:20:31Z" finished-at="2018-06-20T13:20:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod3 -->
+        <test-method status="PASS" signature="testCase1()[pri:0, instance:com.framework.tests.TestNgSequence@61832929]" name="testCase1" duration-ms="6" started-at="2018-06-20T13:20:31Z" finished-at="2018-06-20T13:20:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+        <test-method status="PASS" signature="beforeMethod1()[pri:0, instance:com.framework.tests.TestNgSequence@61832929]" name="beforeMethod1" is-config="true" duration-ms="0" started-at="2018-06-20T13:20:31Z" finished-at="2018-06-20T13:20:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method status="PASS" signature="afterMethod1()[pri:0, instance:com.framework.tests.TestNgSequence@61832929]" name="afterMethod1" is-config="true" duration-ms="1" started-at="2018-06-20T13:20:31Z" finished-at="2018-06-20T13:20:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod1 -->
+        <test-method status="PASS" signature="afterMethod2()[pri:0, instance:com.framework.tests.TestNgSequence@61832929]" name="afterMethod2" is-config="true" duration-ms="0" started-at="2018-06-20T13:20:31Z" finished-at="2018-06-20T13:20:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod2 -->
+        <test-method status="PASS" signature="afterMethod3()[pri:0, instance:com.framework.tests.TestNgSequence@61832929]" name="afterMethod3" is-config="true" duration-ms="0" started-at="2018-06-20T13:20:31Z" finished-at="2018-06-20T13:20:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod3 -->
+        <test-method status="PASS" signature="beforeMethod3()[pri:0, instance:com.framework.tests.TestNgSequence@61832929]" name="beforeMethod3" is-config="true" duration-ms="0" started-at="2018-06-20T13:20:31Z" finished-at="2018-06-20T13:20:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod3 -->
+        <test-method status="PASS" signature="beforeMethod1()[pri:0, instance:com.framework.tests.TestNgSequence@61832929]" name="beforeMethod1" is-config="true" duration-ms="1" started-at="2018-06-20T13:20:31Z" finished-at="2018-06-20T13:20:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod1 -->
+        <test-method status="PASS" signature="testCase3()[pri:0, instance:com.framework.tests.TestNgSequence@61832929]" name="testCase3" duration-ms="4" started-at="2018-06-20T13:20:31Z" finished-at="2018-06-20T13:20:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase3 -->
+        <test-method status="PASS" signature="beforeMethod2()[pri:0, instance:com.framework.tests.TestNgSequence@61832929]" name="beforeMethod2" is-config="true" duration-ms="0" started-at="2018-06-20T13:20:31Z" finished-at="2018-06-20T13:20:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod2 -->
+        <test-method status="PASS" signature="afterMethod1()[pri:0, instance:com.framework.tests.TestNgSequence@61832929]" name="afterMethod1" is-config="true" duration-ms="0" started-at="2018-06-20T13:20:31Z" finished-at="2018-06-20T13:20:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod1 -->
+        <test-method status="PASS" signature="afterMethod2()[pri:0, instance:com.framework.tests.TestNgSequence@61832929]" name="afterMethod2" is-config="true" duration-ms="0" started-at="2018-06-20T13:20:31Z" finished-at="2018-06-20T13:20:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod2 -->
+        <test-method status="PASS" signature="afterMethod3()[pri:0, instance:com.framework.tests.TestNgSequence@61832929]" name="afterMethod3" is-config="true" duration-ms="0" started-at="2018-06-20T13:20:31Z" finished-at="2018-06-20T13:20:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod3 -->
+        <test-method status="PASS" signature="afterClass2()[pri:0, instance:com.framework.tests.TestNgSequence@61832929]" name="afterClass2" is-config="true" duration-ms="0" started-at="2018-06-20T13:20:31Z" finished-at="2018-06-20T13:20:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass2 -->
+        <test-method status="PASS" signature="afterClass1()[pri:0, instance:com.framework.tests.TestNgSequence@61832929]" name="afterClass1" is-config="true" duration-ms="0" started-at="2018-06-20T13:20:31Z" finished-at="2018-06-20T13:20:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass1 -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.framework.tests.TestNgSequence@61832929]" name="afterTest" is-config="true" duration-ms="1" started-at="2018-06-20T13:20:31Z" finished-at="2018-06-20T13:20:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterTest1()[pri:0, instance:com.framework.tests.TestNgSequence@61832929]" name="afterTest1" is-config="true" duration-ms="0" started-at="2018-06-20T13:20:31Z" depends-on-methods="com.framework.tests.TestNgSequence.afterTest" finished-at="2018-06-20T13:20:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest1 -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.framework.tests.TestNgSequence@61832929]" name="afterSuite" is-config="true" duration-ms="1" started-at="2018-06-20T13:20:31Z" finished-at="2018-06-20T13:20:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+        <test-method status="PASS" signature="afterSuite0()[pri:0, instance:com.framework.tests.TestNgSequence@61832929]" name="afterSuite0" is-config="true" duration-ms="0" started-at="2018-06-20T13:20:31Z" depends-on-methods="com.framework.tests.TestNgSequence.afterSuite" finished-at="2018-06-20T13:20:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite0 -->
+      </class> <!-- com.framework.tests.TestNgSequence -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

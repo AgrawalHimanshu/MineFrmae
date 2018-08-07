@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+  	<test name="Random Test" preserve-order="false">
+		<classes>
+       		<!-- 	-->
+       			<class name="com.framework.tests.TestNgSequence3" /> 
+       			<class name="com.framework.tests.TestNgSequence" /> 
+ 				<class name="com.framework.tests.TestNgSequence2" /> 
+ 			
+ 				
+		</classes>
+  	</test> <!-- Test -->
+</suite> <!-- Suite -->
